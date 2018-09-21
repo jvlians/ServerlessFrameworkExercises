@@ -1,4 +1,4 @@
-# Serverless Framework Basics
+# Serverless Framework Exercises
 An introduction to AWS Lambdas and the serverless framework
 ## Getting Started
 Following these instructions will result in you having a copy of the project up and running on your local machine for development and testing purposes.
