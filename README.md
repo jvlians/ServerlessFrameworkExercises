@@ -38,4 +38,8 @@ npm install -g serverless
 ## Now the fun begins!
 Now that you have installed all the necessary software, it's time to get into the code and build yourself a serverless API the instructions for which are linked to below. Good luck and happy coding...
 
-[Quick Start](https://serverless.com/learn/quick-start/)
+[Beginners](https://serverless.com/learn/quick-start/)
+
+[Intermediate](https://serverless.com/blog/serverless-express-rest-api/)
+
+[Advanced](https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/)
